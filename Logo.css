@@ -23,6 +23,11 @@ div#itemDetailPage {
   margin-top: 0 !important;
 }
 
+.subtitle {
+    margin: .15em 0 .2em -1em;
+    padding-left: 0em;
+}
+
 .hide + .detailPageWrapperContainer .detailPagePrimaryContent {
   min-height: 65vh !important;
 }
