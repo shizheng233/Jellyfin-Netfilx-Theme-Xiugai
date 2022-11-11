@@ -10,6 +10,11 @@
   margin-top: 10vh;
 }
 
+.subtitle {
+    margin: .15em 0 .2em -1em;
+    padding-left: 0em;
+}
+
 div#itemDetailPage {
   display: flex;
   flex-direction: column;
