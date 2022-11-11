@@ -73,7 +73,7 @@ div#itemDetailPage {
 }
 
 .itemName {
- 
+  margin: 0;
 }
 
 .layout-mobile #itemDetailPage .detailLogo {
