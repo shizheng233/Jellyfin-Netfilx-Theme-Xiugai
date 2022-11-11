@@ -754,54 +754,54 @@ div#videoOsdPage {
   font-family: "Netflix Sans";
   font-weight: 100;
   font-display: optional;
-  src: url(https://assets.nflxext.com/ffe/siteui/fonts/netflix-sans/v3/NetflixSans_W_Th.woff2)
+  src: url(https://jsd.cdn.zzko.cn/gh/prchann/fonts@main/PingFang%20SC/PingFangSC-Light.woff2)
       format("woff2"),
-    url(https://assets.nflxext.com/ffe/siteui/fonts/netflix-sans/v3/NetflixSans_W_Th.woff)
+    url(https://jsd.cdn.zzko.cn/gh/prchann/fonts@main/PingFang%20SC/PingFangSC-Light.woff2)
       format("woff");
 }
 @font-face {
   font-family: "Netflix Sans";
   font-weight: 300;
   font-display: optional;
-  src: url(https://assets.nflxext.com/ffe/siteui/fonts/netflix-sans/v3/NetflixSans_W_Lt.woff2)
+  src: url(https://jsd.cdn.zzko.cn/gh/prchann/fonts@main/PingFang%20SC/PingFangSC-Medium.woff2)
       format("woff2"),
-    url(https://assets.nflxext.com/ffe/siteui/fonts/netflix-sans/v3/NetflixSans_W_Lt.woff)
+    url(https://jsd.cdn.zzko.cn/gh/prchann/fonts@main/PingFang%20SC/PingFangSC-Medium.woff2)
       format("woff");
 }
 @font-face {
   font-family: "Netflix Sans";
   font-weight: 400;
   font-display: optional;
-  src: url(https://assets.nflxext.com/ffe/siteui/fonts/netflix-sans/v3/NetflixSans_W_Rg.woff2)
+  src: url(https://jsd.cdn.zzko.cn/gh/prchann/fonts@main/PingFang%20SC/PingFangSC-Regular.woff2)
       format("woff2"),
-    url(https://assets.nflxext.com/ffe/siteui/fonts/netflix-sans/v3/NetflixSans_W_Rg.woff)
+    url(https://jsd.cdn.zzko.cn/gh/prchann/fonts@main/PingFang%20SC/PingFangSC-Regular.woff2)
       format("woff");
 }
 @font-face {
   font-family: "Netflix Sans";
   font-weight: 700;
   font-display: optional;
-  src: url(https://assets.nflxext.com/ffe/siteui/fonts/netflix-sans/v3/NetflixSans_W_Md.woff2)
+  src: url(https://jsd.cdn.zzko.cn/gh/prchann/fonts@main/PingFang%20SC/PingFangSC-Semibold.woff2)
       format("woff2"),
-    url(https://assets.nflxext.com/ffe/siteui/fonts/netflix-sans/v3/NetflixSans_W_Md.woff)
+    url(https://jsd.cdn.zzko.cn/gh/prchann/fonts@main/PingFang%20SC/PingFangSC-Semibold.woff2)
       format("woff");
 }
 @font-face {
   font-family: "Netflix Sans";
   font-weight: 800;
   font-display: optional;
-  src: url(https://assets.nflxext.com/ffe/siteui/fonts/netflix-sans/v3/NetflixSans_W_Bd.woff2)
+  src: url(https://jsd.cdn.zzko.cn/gh/prchann/fonts@main/PingFang%20SC/PingFangSC-Semibold.woff2)
       format("woff2"),
-    url(https://assets.nflxext.com/ffe/siteui/fonts/netflix-sans/v3/NetflixSans_W_Bd.woff)
+    url(https://jsd.cdn.zzko.cn/gh/prchann/fonts@main/PingFang%20SC/PingFangSC-Semibold.woff2)
       format("woff");
 }
 @font-face {
   font-family: "Netflix Sans";
   font-weight: 900;
   font-display: optional;
-  src: url(https://assets.nflxext.com/ffe/siteui/fonts/netflix-sans/v3/NetflixSans_W_Blk.woff2)
+  src: url(https://jsd.cdn.zzko.cn/gh/prchann/fonts@main/PingFang%20SC/PingFangSC-Semibold.woff2)
       format("woff2"),
-    url(https://assets.nflxext.com/ffe/siteui/fonts/netflix-sans/v3/NetflixSans_W_Blk.woff)
+    url(https://jsd.cdn.zzko.cn/gh/prchann/fonts@main/PingFang%20SC/PingFangSC-Semibold.woff2)
       format("woff");
 }
 body,
