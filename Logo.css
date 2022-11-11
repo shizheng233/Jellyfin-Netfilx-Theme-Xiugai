@@ -10,6 +10,10 @@
   margin-top: 10vh;
 }
 
+h3.itemName.infoText.subtitle.focuscontainer-x {
+    padding-left: 0em;
+}
+
 div#itemDetailPage {
   display: flex;
   flex-direction: column;
