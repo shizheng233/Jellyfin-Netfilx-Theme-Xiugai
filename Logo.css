@@ -13,6 +13,20 @@
 h3.itemName.infoText.subtitle.focuscontainer-x {
     padding-left: 0em;
 }
+.layout-desktop .detailImageContainer .card{
+    left: 73%;
+    top: 150%;
+    width: 25vw;
+}
+
+.detailPageContent{
+    display: -webkit-flex;
+    display: flex;
+    -webkit-flex-direction: column;
+    flex-direction: column;
+    padding-left: 5vw;
+    padding-right: 40%;
+}
 
 div#itemDetailPage {
   display: flex;
@@ -53,7 +67,7 @@ div#itemDetailPage {
 .layout-desktop #itemDetailPage:not(.noBackdrop) .detailPagePrimaryContainer,
 .layout-tv #itemDetailPage:not(.noBackdrop) .detailPagePrimaryContainer {
   margin: 0;
-  padding: 0;
+  padding: 1vh 5vw;
   height: 10vh;
 }
 
